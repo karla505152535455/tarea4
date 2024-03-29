@@ -1,0 +1,18 @@
+
+
+.parisienne-regular {
+    font-family: "Brush Script MT";
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150px;
+    text-align: center;
+  }
+.tac-one-regular {
+    font-family: "Helvetica", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    text-align: center;
+  } 
+.container-fluid{
+    background-color: grey;
+}
